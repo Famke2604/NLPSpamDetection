@@ -17,7 +17,7 @@ shirley
 ```
 Where each email has the subject of the email as the first line and the rest of the message on the next lines. 
 
-Before creating and training the classifiers, we preprocessed the data. We removed punctuation, removed stopwords and tokenization. To create word embeddings, we create a dictionary for each word in the mail. 
+Before creating and training the classifiers, we preprocessed the data. We removed punctuation, removed stopwords and tokenization. We chose to leave in punctuation such as `?` and `!` since they are excess use is often a characteristic to spam-mails. To create word embeddings, we create a dictionary for each word in the mail. 
 
 Example ham-mail after preprocessing:
 
