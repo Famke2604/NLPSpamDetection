@@ -15,9 +15,9 @@ soon as possible - the 15 th of august would be great , if possible .
 let me know if there is something that you do not understand . thanks !
 shirley
 ```
-Where each email has the subject of the email as the first line. 
+Where each email has the subject of the email as the first line and the rest of the message on the next lines. 
 
-Before creating and training the classifiers, we preprocessed the data. We removed punctuation, removed stopwords and tokenization. 
+Before creating and training the classifiers, we preprocessed the data. We removed punctuation, removed stopwords and tokenization. To create word embeddings, we create a dictionary for each word in the mail. 
 
 Example ham-mail after preprocessing:
 
