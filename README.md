@@ -9,8 +9,6 @@ Before creating and training the classifiers, we preprocessed the data. We remov
 
 Results Naive Bayes:
 |       |Precision|Recall|F-score|
-|-------|---------|------|-------|
+|---|---|---|---|
 |Macro|97.13%| 97.06%| 97.07%|
-|-------|---------|------|-------|
 |Micro|97.07 %| 97.07 %| 97.07 %|
-|-------|---------|------|-------|
