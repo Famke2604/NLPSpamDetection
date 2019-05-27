@@ -36,7 +36,12 @@ Accuracy = 97.47%
 |   Micro    |   97.47 % |  97.47%|  97.47 %|
 
 
+The FP/FN/TP/TN rates were as follows:
 
+|                  |    Spam   |   Ham   | 
+|      :---:       |   :---:   |  :---:  |
+|      Spam        |    357    |    18   |
+|       Ham        |    374    |    1    | 
 
 ### **Results Logistic Regression:**
 
