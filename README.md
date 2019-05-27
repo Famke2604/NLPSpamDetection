@@ -26,8 +26,8 @@ Example ham-mail after preprocessing:
 ```
 
 
-### **Results Naive Bayes:**
-## **With pre-processing**
+### Results Naive Bayes:
+## With pre-processing
 
 Accuracy = 97.47%
 
@@ -44,7 +44,7 @@ The NB confusion matrix looks as follows:
 |      Spam        |    357    |    18   |
 |       Ham        |    1    |    374    | 
 
-## **Without pre-processing**
+## Without pre-processing
 Accuracy = 98.0%
 
 | EvaluationMetric | Precision | Recall | F-score |
@@ -60,7 +60,7 @@ The NB confusion matrix looks as follows:
 |      Spam        |    361    |    14   |
 |       Ham        |    1    |    374    | 
 
-### **Results Logistic Regression:**
+### *esults Logistic Regression:
 
 Accuracy = 94.85%
 
