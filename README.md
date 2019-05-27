@@ -36,7 +36,7 @@ Accuracy = 97.47%
 |   Micro    |   97.47 % |  97.47%|  97.47 %|
 
 
-The FP/FN/TP/TN rates were as follows:
+The NB confusion matrix looks as follows:
 
 |                  |    Spam   |   Ham   | 
 |      :---:       |   :---:   |  :---:  |
@@ -51,3 +51,11 @@ Accuracy = 94.85%
 |   :---:    |   :---:   |  :---: |  :---:  |
 |   Macro    |   95.07%  |  94.95%|  94.97% |
 |   Micro    |   94.85 % |  94.85%|  94.85% |
+
+The LR confusion matrix looks as follows:
+
+|                  |    Spam   |   Ham   | 
+|      :---:       |   :---:   |  :---:  |
+|      Spam        |    12    |    61   |
+|       Ham        |    7    |    54    |
+These rates don't count up to the test set of 750 txt files. So, our LR is not reliable.
