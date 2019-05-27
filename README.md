@@ -84,7 +84,7 @@ The LR confusion matrix looks as follows:
 |      Spam        |    12    |    61   |
 |       Ham        |    7    |    54    |
 
-These rates don't count up to the test set of 750 txt files. So, our LR is not reliable.
+These rates don't count up to the test set of 750 txt files. So, our LR is not reliable (and not working properly).
 
 
 ### Conclusion
