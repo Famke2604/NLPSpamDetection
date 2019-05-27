@@ -25,9 +25,17 @@ Example ham-mail after preprocessing:
 'Subject': True, 'research': True, 'dept': True, 'move': True, 'hello': True, 'everyone': True, 'attached': True, 'churn': True, 'relocation': True, 'request': True, 'office': True, 'exchanges': True, 'within': True, 'group': True, '19': True, 'th': True, 'floor': True, 'grouped': True, 'sets': True, 'two': True, 'rush': True, 'order': True, 'would': True, 'appreciate': True, 'getting': True, 'soon': True, 'possible': True, '15': True, 'august': True, 'great': True, ',': True, 'let': True, 'know': True, 'something': True, 'understand': True, 'thanks': True, '!': True, 'shirley': True
 ```
 
+The total set that the classifiers consisted of:
+* Train set
+  * 1000 spam emails
+  * 1000 ham emails
+* Test set
+  * 375 spam emails
+  * 375 ham emails
 
 ### Results Naive Bayes:
-## With pre-processing
+
+#### With pre-processing
 
 Accuracy = 97.47%
 
@@ -60,7 +68,7 @@ The NB confusion matrix looks as follows:
 |      Spam        |    361    |    14   |
 |       Ham        |    1    |    374    | 
 
-### *esults Logistic Regression:
+### Results Logistic Regression:
 
 Accuracy = 94.85%
 
