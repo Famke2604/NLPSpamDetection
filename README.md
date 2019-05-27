@@ -26,10 +26,10 @@ Example ham-mail after preprocessing:
 ```
 
 The total set that the classifiers consisted of:
-* Train set
+* Train set (size = 2000)
   * 1000 spam emails
   * 1000 ham emails
-* Test set
+* Test set (size = 750)
   * 375 spam emails
   * 375 ham emails
 
