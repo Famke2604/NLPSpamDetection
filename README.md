@@ -40,9 +40,9 @@ Accuracy = 97.47%
 
 ### **Results Logistic Regression:**
 
-Accuracy = 97.47%
+Accuracy = 94.85%
 
 | EvaluationMetric | Precision | Recall | F-score |
 |   :---:    |   :---:   |  :---: |  :---:  |
-|   Macro    |   97.56%  |  97.47%|  97.48% |
-|   Micro    |   97.47 % |  97.47%|  97.47 %|
+|   Macro    |   95.07%  |  94.95%|  94.97% |
+|   Micro    |   94.85 % |  94.85%|  94.85% |
