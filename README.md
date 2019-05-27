@@ -60,3 +60,9 @@ The LR confusion matrix looks as follows:
 |       Ham        |    7    |    54    |
 
 These rates don't count up to the test set of 750 txt files. So, our LR is not reliable.
+
+
+### Conclusion
+The desired outcomes were not reached due to the fact that the Logistic Regression classifier was not implemented in a correct way. This lead to unfinished experiments on the LR classifier, as well as no comparison-experiments between the two classifiers.
+Nonetheless, the Naïve Bayes classifier itself gave some very good results, that could be explained due to the simplicity of the dataset. Hence, we can only give a conclusion on the Naïve Bayes classifier, namely that pre-processing on stopwords does not improve performance and NB is a very good baseline for 'simple' spam emails.
+From this project, not many new things can be learned in regards to the well-researched topic of Naïve Bayes in spam detection classifiers. Nonetheless, we are still pleased with how our own NB-classifier turned out.
